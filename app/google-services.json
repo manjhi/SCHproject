@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "898089358318",
+    "firebase_url": "https://schproject-111.firebaseio.com",
+    "project_id": "schproject-111",
+    "storage_bucket": "schproject-111.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:898089358318:android:b9ba7eebd9998085",
+        "android_client_info": {
+          "package_name": "manjinder.sch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "898089358318-bgugdvktvpgfrhsvuh8u82t1c38oqtme.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATtEnv1z4ga4P0xT8NuW1ly41CHlfIYzs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
